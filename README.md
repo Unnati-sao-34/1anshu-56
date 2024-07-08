@@ -23,7 +23,7 @@
       </td>
     </td>
   <td align="right">
-      <img width="600%" src="https://github-readme-streak-stats.herokuapp.com/?user=Unnati-sao-34&show_icons=true&theme=tokyonight" />
+      <img width="6%" src="https://github-readme-streak-stats.herokuapp.com/?user=Unnati-sao-34&show_icons=true&theme=tokyonight" />
 </td>
   </tr>
   </table>
@@ -31,6 +31,6 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me:
 <a href="https://www.linkedin.com/in/unnati-shaw-27498a272/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/Shaw1Unnati" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a>
 <br /><h1>
-### Hacktoberfest 2022 Badge 
+### Hacktoberfest 2023 Badge 
   [![An image of @unnatisao34's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/unnatisao34)](https://holopin.io/@unnatisao34)
 
