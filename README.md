@@ -23,7 +23,7 @@
       </td>
     </td>
   <td align="right">
-      <img width="500%" src="https://github-readme-streak-stats.herokuapp.com/?user=Unnati-sao-34&show_icons=true&theme=tokyonight" />
+      <img width="600%" src="https://github-readme-streak-stats.herokuapp.com/?user=Unnati-sao-34&show_icons=true&theme=tokyonight" />
 </td>
   </tr>
   </table>
