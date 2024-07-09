@@ -10,8 +10,21 @@
   Student at Budge Budge Institute of Technology, Kolkata.
 * 🌱 I’m currently learning DSA
 * 👨🏽‍💻 I'm Passionate about AI and Data Science<br/>
-img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4"
+
 <br />
+<table align="center" width="100%">
+  <tr>
+  <td align="center">
+            <a href="https://github.com/EddieHubCommunity">
+              <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/EddieHubCommunity">
+              <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
+            </a>
+          </td>
+          </table>
 
 ### Languages and Tools:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
