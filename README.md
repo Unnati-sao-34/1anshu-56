@@ -14,10 +14,7 @@
 <br />
 <table align="center" width="100%">
   <tr>
-     <td align="center">
-      <strong>I'm part of this organisation:</strong><br>
-      <table>
-        </tr>
+     
   <td align="center">
             <a href="https://github.com/EddieHubCommunity">
               <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
