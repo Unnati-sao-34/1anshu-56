@@ -1,4 +1,4 @@
-c<h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!🙏;Welcome🙇‍♀️+to+my+profile&center=true&size=30">
 <h1 align ="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Unnati Sao🌸!</h1>
 <img align="center" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
