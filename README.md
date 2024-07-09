@@ -10,7 +10,7 @@
   Student at Budge Budge Institute of Technology, Kolkata.
 * 🌱 I’m currently learning DSA
 * 👨🏽‍💻 I'm Passionate about AI and Data Science<br/>
-
+img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4"
 <br />
 
 ### Languages and Tools:
